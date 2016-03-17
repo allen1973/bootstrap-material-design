@@ -1,5 +1,5 @@
 # bootstrap-material-design
-[![banner](http://2.bp.blogspot.com/-InRVXC1cqIs/VgFjSrTSvcI/AAAAAAAAGok/oiu6lH88wjg/s1600/1442930266231.jpg)](#)
+
 [![build status](https://travis-ci.org/FezVrasta/bootstrap-material-design.svg?branch=master)](https://travis-ci.org/FezVrasta/bootstrap-material-design)
 [![gratipay](https://img.shields.io/gratipay/FezVrasta.svg)](https://gratipay.com/FezVrasta)
 [![Bower version](https://badge.fury.io/bo/bootstrap-material-design.svg)](https://github.com/FezVrasta/bootstrap-material-design)
